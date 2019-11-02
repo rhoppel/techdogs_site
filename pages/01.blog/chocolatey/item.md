@@ -21,11 +21,11 @@ hide_from_post_list: false
 link: 'https://chocolatey.org'
 ---
 
-link: https://chocolatey.org
+link: https://chocolatey.org  check it out!
 
 ===
 
-### The package manager for Windows
+### The package manager for Windows!
 #### Chocolatey - Software Management Automation
 
 ```yaml
